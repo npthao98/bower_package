@@ -6,7 +6,7 @@
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/npthao98/bower_package.git",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,7 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "boostrap#^4.5.0",
-    "jquery": "^3.5.1"
+    "bootstrap": "boostrap#^4.5.0"
   }
 }
