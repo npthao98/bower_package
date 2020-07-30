@@ -17,6 +17,7 @@
   "dependencies": {
     "bootstrap": "boostrap#^4.5.0",
     "jquery": "^3.5.1",
-    "bootstrap-css": "^3.3.7"
+    "bootstrap-css": "^3.3.7",
+    "ckeditor5": "https://github.com/ckeditor/ckeditor5"
   }
 }
